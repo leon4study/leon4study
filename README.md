@@ -16,7 +16,7 @@ Currently focusing on expanding my skills across **Data Engineering, Data Scienc
 
 ## 🔗 Links
 
-- **Portfolio / Blog**: [Hyunjun's Data Projects](https://dongchanlim.github.io/github-portfolio/)  
+- **Portfolio / Blog**: [Hyunjun's Data blog](https://velog.io/@leo4study/series/DataEngineering)  
 - **LinkedIn**: [linkedin.com/in/현준-김](https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EA%B9%80-a978a3348/)  
 - **Email**: leo4study@gmail.com  
 
