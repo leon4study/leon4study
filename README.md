@@ -40,8 +40,8 @@ Currently focusing on expanding my skills across **Data Engineering, Data Scienc
 ### 📚 Tech Stack
 - **Programming**: Python, SQL, Java (기초/학습 중)
 - **Data Processing**: Pandas, NumPy, Spark (기초/실습 프로젝트 진행)
-- **Visualization**: Matplotlib, Seaborn, Power BI
-- **Cloud & Deployment**: AWS, GCP (학습 중), Docker (기초 프로젝트)
+- **Visualization**: Matplotlib, Seaborn, Tableau
+- **Cloud & Deployment**: AWS (학습 중), Docker (기초 프로젝트)
 - **ETL & Orchestration**: Airflow, Kafka (학습 및 개인 프로젝트 적용 중)
 
 ### ✏️ Projects & Learning
@@ -49,7 +49,7 @@ Currently focusing on expanding my skills across **Data Engineering, Data Scienc
 - SQL 기반 데이터 분석, EDA, KPI 시각화 프로젝트 수행
 - ML 모델링: 선형/로지스틱 회귀, 랜덤포레스트, 간단한 추천 시스템
 - 데이터 엔지니어링 파이프라인 설계 및 ETL 자동화 실습
-- GitHub Portfolio: [프로젝트 모음](https://dongchanlim.github.io/github-portfolio/)
+- GitHub Portfolio: [프로젝트 모음]()
 
 ---
 
